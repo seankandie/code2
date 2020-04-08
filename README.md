@@ -1,2 +1,2 @@
 # code2
-learning to code
+learning to code and learning to code
